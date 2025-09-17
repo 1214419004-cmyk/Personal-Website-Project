@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(0, 0, 0, 0.955);
+    color:aliceblue;
+}
+.links{
+    color:blue;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0.078);
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.419);
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol{
+    font-style: italic;
+}
+
+#Games{
+    color: rgb(255, 41, 41);
+}
+
+#Volleyball{
+    color:rgb(28, 190, 28);
+}
+
+#Home{
+    color: rgb(255, 255, 37);
+    font-size: 25px;
+    text-align: center;
+}
+
+.centered{
+    text-align: center;
+}
